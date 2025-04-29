@@ -13,14 +13,14 @@
         <mxCell id="7c3789c024ecab99-77" style="edgeStyle=none;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;" parent="1" source="7c3789c024ecab99-54" target="7c3789c024ecab99-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7c3789c024ecab99-54" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;rounded=0;shadow=0;comic=0;" parent="1" vertex="1">
+        <mxCell id="7c3789c024ecab99-54" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#6d8764;strokeColor=#3A5431;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;rounded=0;shadow=0;comic=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1590" y="200" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7c3789c024ecab99-76" value="&lt;div&gt;Provider 2&lt;/div&gt;&lt;div&gt;Backup Only&lt;/div&gt;" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#6881B3;rounded=0;shadow=0;comic=0;align=center;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="1840" y="10" width="330" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="iRFJZxEu8_ZGbpbjaBOt-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;rounded=0;shadow=0;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="270" width="100" height="30" as="geometry" />
+        <mxCell id="iRFJZxEu8_ZGbpbjaBOt-1" value="" style="fontColor=#ffffff;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#60a917;strokeColor=#2D7600;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;rounded=0;shadow=0;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="380" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
